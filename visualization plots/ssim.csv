@@ -1,0 +1,4 @@
+Model,SSIM (higher is better)
+beta-VAE-GAN,0.82
+VQ-VAE-GAN,0.88
+Hierarchical VAE-GAN,0.91

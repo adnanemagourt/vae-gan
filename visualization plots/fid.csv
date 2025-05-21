@@ -1,0 +1,4 @@
+Model,FID (lower is better)
+beta-VAE-GAN,38
+VQ-VAE-GAN,31
+Hierarchical VAE-GAN,26
